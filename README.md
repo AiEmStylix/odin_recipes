@@ -1,1 +1,1 @@
-# odin_recipes
+A simple html page for my journey
